@@ -1,0 +1,17 @@
+{
+  "name": "Mungkur Habang Jaya",
+  "short_name": "MHJ Toko",
+  "description": "Nota, katalog, dan pesanan Toko Bangunan Mungkur Habang Jaya",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14100a",
+  "theme_color": "#14100a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
